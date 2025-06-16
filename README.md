@@ -75,7 +75,7 @@ ToDo-example/
 
 ## Features
 
-Both implementations provide:
+Both implementations provide:  
 ✅ Create, read, update, delete tasks  
 ✅ Task completion toggle  
 ✅ CSRF protection  
