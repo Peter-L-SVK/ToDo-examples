@@ -7,6 +7,8 @@ This project demonstrates a minimal todo list application implemented with two d
 
 Both backends serve the same Vue.js/React frontend, showcasing how different technologies can implement identical functionality.
 
+![ToDo demo](demo.png) 
+
 ## System Requirements
 
 ### Common Requirements
@@ -151,4 +153,3 @@ Pull requests welcome! Please maintain:
 1. Feature parity between implementations
 2. Clean, documented code
 3. Consistent API responses
-```
