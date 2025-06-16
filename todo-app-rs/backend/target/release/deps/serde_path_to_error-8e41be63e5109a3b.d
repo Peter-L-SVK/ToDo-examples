@@ -1,0 +1,11 @@
+/home/xgf/Desktop/python/todo-app-rs/backend/target/release/deps/libserde_path_to_error-8e41be63e5109a3b.rmeta: /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.17/src/lib.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.17/src/de.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.17/src/path.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.17/src/ser.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.17/src/wrap.rs
+
+/home/xgf/Desktop/python/todo-app-rs/backend/target/release/deps/libserde_path_to_error-8e41be63e5109a3b.rlib: /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.17/src/lib.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.17/src/de.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.17/src/path.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.17/src/ser.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.17/src/wrap.rs
+
+/home/xgf/Desktop/python/todo-app-rs/backend/target/release/deps/serde_path_to_error-8e41be63e5109a3b.d: /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.17/src/lib.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.17/src/de.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.17/src/path.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.17/src/ser.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.17/src/wrap.rs
+
+/home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.17/src/lib.rs:
+/home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.17/src/de.rs:
+/home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.17/src/path.rs:
+/home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.17/src/ser.rs:
+/home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_path_to_error-0.1.17/src/wrap.rs:

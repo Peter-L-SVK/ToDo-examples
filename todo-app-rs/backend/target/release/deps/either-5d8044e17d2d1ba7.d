@@ -1,0 +1,11 @@
+/home/xgf/Desktop/python/todo-app-rs/backend/target/release/deps/libeither-5d8044e17d2d1ba7.rmeta: /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0/src/lib.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0/src/serde_untagged.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0/src/serde_untagged_optional.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0/src/iterator.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0/src/into_either.rs
+
+/home/xgf/Desktop/python/todo-app-rs/backend/target/release/deps/libeither-5d8044e17d2d1ba7.rlib: /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0/src/lib.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0/src/serde_untagged.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0/src/serde_untagged_optional.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0/src/iterator.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0/src/into_either.rs
+
+/home/xgf/Desktop/python/todo-app-rs/backend/target/release/deps/either-5d8044e17d2d1ba7.d: /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0/src/lib.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0/src/serde_untagged.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0/src/serde_untagged_optional.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0/src/iterator.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0/src/into_either.rs
+
+/home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0/src/lib.rs:
+/home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0/src/serde_untagged.rs:
+/home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0/src/serde_untagged_optional.rs:
+/home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0/src/iterator.rs:
+/home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/either-1.15.0/src/into_either.rs:

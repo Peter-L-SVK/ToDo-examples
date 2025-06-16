@@ -1,0 +1,13 @@
+/home/xgf/Desktop/python/todo-app-rs/backend/target/release/deps/liburl-08ca6260f50ccb55.rmeta: /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/lib.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/host.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/origin.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/parser.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/path_segments.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/slicing.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/quirks.rs
+
+/home/xgf/Desktop/python/todo-app-rs/backend/target/release/deps/liburl-08ca6260f50ccb55.rlib: /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/lib.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/host.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/origin.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/parser.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/path_segments.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/slicing.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/quirks.rs
+
+/home/xgf/Desktop/python/todo-app-rs/backend/target/release/deps/url-08ca6260f50ccb55.d: /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/lib.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/host.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/origin.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/parser.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/path_segments.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/slicing.rs /home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/quirks.rs
+
+/home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/lib.rs:
+/home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/host.rs:
+/home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/origin.rs:
+/home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/parser.rs:
+/home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/path_segments.rs:
+/home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/slicing.rs:
+/home/xgf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.4/src/quirks.rs:

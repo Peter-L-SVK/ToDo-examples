@@ -1,0 +1,35 @@
+import axios from 'axios';
+
+const api = axios.create({
+  baseURL: import.meta.env.VITE_API_URL || 'http://localhost:8000',
+  withCredentials: true,
+  headers: {
+    'Content-Type': 'application/json',
+    'Accept': 'application/json'
+  }
+});
+
+export const getCsrfToken = async () => {
+  const response = await api.get('/csrf');
+  api.defaults.headers.common['X-CSRF-Token'] = response.data.csrf_token;
+  return response.data.csrf_token;
+};
+
+export const fetchTasks = async () => {
+  const response = await api.get('/tasks');
+  return response.data;
+};
+
+export const createTask = async (title) => {
+  const response = await api.post('/tasks', { title });
+  return response.data;
+};
+
+export const updateTask = async (taskId, updates) => {
+  const response = await api.patch(`/tasks/${taskId}`, updates);
+  return response.data;
+};
+
+export const deleteTask = async (taskId) => {
+  await api.delete(`/tasks/${taskId}`);
+};
