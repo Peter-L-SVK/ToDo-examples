@@ -1,6 +1,3 @@
-Here's a comprehensive `README.md` that explains your dual-backend todo list project:
-
-```markdown
 # Todo List Comparison Project
 
 This project demonstrates a minimal todo list application implemented with two different backend technologies:
