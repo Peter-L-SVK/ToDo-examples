@@ -1,1 +1,0 @@
-/home/xgf/Desktop/python/todo-app-rs/backend/target/release/backend: /home/xgf/Desktop/python/todo-app-rs/backend/src/database.rs /home/xgf/Desktop/python/todo-app-rs/backend/src/main.rs /home/xgf/Desktop/python/todo-app-rs/backend/src/models.rs /home/xgf/Desktop/python/todo-app-rs/backend/src/routes.rs
